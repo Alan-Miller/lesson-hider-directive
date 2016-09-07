@@ -1,1 +1,1 @@
-angular.module('lessonApp', []);
+angular.module('directivePractice', []);
