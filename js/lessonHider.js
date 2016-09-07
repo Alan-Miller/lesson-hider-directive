@@ -3,7 +3,10 @@ angular.module('lessonApp')
 
   return {
     templateUrl: 'lessonHider.html',
-    restrict: 'E'
+    restrict: 'E',
+    link: function(scope, element, attributes) {
+
+    }
   };
 
 });
